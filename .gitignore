@@ -11,3 +11,5 @@ coverage.xml
 dist
 htmlcov
 venv
+.codecov-python
+dev.env
